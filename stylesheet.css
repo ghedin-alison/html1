@@ -1,14 +1,22 @@
 body{
-	background-color: rgba(0,0,200,.3);
+	background-color: rgba(255, 255, 25, 0.7);
+	position: relative;
 }
 span{
-	color: rgba(255,100,0);
+	color: rgba(0,100,0);
 	font-weight: bold;
 }
 
 .ordenada{
 	font-size: 35px;
 }
-#t2{
-	color: rgba(0,255,180);
+h1, h3{
+	text-align: center;
+}
+p{
+	line-height: 1.6;
+}
+#quote{
+	font-style: italic;
+	text-align: center;
 }

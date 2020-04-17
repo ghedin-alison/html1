@@ -20,3 +20,5 @@ function incrementar(){
 	var p1 = document.getElementById("p1");
 	p1.innerText = parseInt(p1.innerText) + 1;
 }
+
+$('body').scrollspy({ target: '#navbar-example' })
